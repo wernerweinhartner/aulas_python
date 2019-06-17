@@ -9,7 +9,9 @@ a = float(input('Digite a primeira nota do aluno: '))
 b = float(input('Digite a segunda nota do aluno: '))
 
 media = (a + b) / 2.0
-
+#GGGGGGGGGGGGG
+#print
+print('werner')
 
 if media >= 7 and média < 10.0:
     print('Aprovado')
