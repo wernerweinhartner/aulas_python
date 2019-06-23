@@ -13,7 +13,7 @@ media = (a + b) / 2.0
 #print
 print('werner')
 
-if media >= 7 and média < 10.0:
+if media >= 7 and media < 10.0:
     print('Aprovado')
 
 elif media < 7.0:
