@@ -24,6 +24,6 @@ elif media == 10.0:
 
 print('Sua média eh igual a: %.2f ' %  (media))    
 
- 
+# Alterações do Werner...
 
 
