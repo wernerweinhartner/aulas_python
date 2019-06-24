@@ -8,6 +8,7 @@
 a = float(input('Digite a primeira nota do aluno: '))
 b = float(input('Digite a segunda nota do aluno: '))
 
+
 media = (a + b) / 2.0
 #GGGGGGGGGGGGG
 #print
@@ -25,5 +26,4 @@ elif media == 10.0:
 print('Sua média eh igual a: %.2f ' %  (media))    
 
  
-
-
+# Alteração teste do Rober.
