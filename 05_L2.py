@@ -27,3 +27,6 @@ print('Sua média eh igual a: %.2f ' %  (media))
 
  
 # Alteração teste do Rober.
+# Alterações do Werner...
+
+
