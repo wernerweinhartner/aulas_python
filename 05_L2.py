@@ -24,9 +24,3 @@ elif media == 10.0:
     print('Aprovado com distinção!')
 
 print('Sua média eh igual a: %.2f ' %  (media))    
-
- 
-# Alteração teste do Rober.
-# Alterações do Werner...
-
-

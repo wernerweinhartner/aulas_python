@@ -2,13 +2,8 @@
 # A função input só aceita números
 # A função raw_input aceita strings
 
-
-
 # int (variável) converte para inteiro
 # int (variável) converte para string 
-
-
-
 
 a = input('Informe o valor de A:')
 b = input('Informe o valor de B:')
@@ -22,3 +17,4 @@ resultado = float(a) + float(b)
 
 print('O resultado de %s + %s = %0.4f' % (a, b, resultado) )
 
+# fim do arquivo.
